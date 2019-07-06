@@ -9,8 +9,11 @@ public class SingletonMain {
         Singleton singleton2 = Singleton.getInstance();
         Singleton singleton3 = Singleton.getInstance();
 
-        singleton1.setInput("singleton1!!");
+        System.out.println(singleton1.getInput());
+        System.out.println(singleton2.getInput());
+        System.out.println(singleton3.getInput());
 
+        singleton1.setInput("singleton1!!");
         System.out.println(singleton1.getInput());
         System.out.println(singleton2.getInput());
         System.out.println(singleton3.getInput());
