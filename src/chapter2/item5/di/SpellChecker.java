@@ -9,7 +9,6 @@ public class SpellChecker {
         this.dictionary = dictionary;
     }
     //    public static boolean isValid(String word) { ...}
-
 //    철자를 체크하는 SpellChekcer가 있다고 생각해보자.
 //    맞춤법 검사기는 사전에 의존하는데, 사용하는 자원에 따라 동작이 달라지는 클래스에서
 //    싱글톤이나 정적 클래스 방식은 적합하지 않다.
