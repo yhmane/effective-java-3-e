@@ -1,4 +1,4 @@
-package chapter2.item6;
+package chapter2.item7;
 
 import java.util.EmptyStackException;
 
