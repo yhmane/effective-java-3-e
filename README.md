@@ -8,3 +8,4 @@
 ### [Item #6. 불필요한 객체 생성을 피하라](https://github.com/yhmane/effective-java-3-e/blob/master/src/chapter2/item6/README.md)
 ### [Item #7. 다 쓴 객체 참조를 해제하라](https://github.com/yhmane/effective-java-3-e/blob/master/src/chapter2/item7/README.md)
 ### [Item #8. finalizer와 cleaner 사용을 피하라](https://github.com/yhmane/effective-java-3-e/blob/master/src/chapter2/item8/README.md)
+### [Item #9. try-finally보다는 try-with-resources를 사용하라](https://github.com/yhmane/effective-java-3-e/blob/master/src/chapter2/item9/README.md)
