@@ -14,4 +14,5 @@
 ### [Item #10. equals는 일반 규약을 지켜 재정의하라](https://github.com/yhmane/effective-java-3-e/blob/master/src/chapter3/item10/README.md)
 ### [Item #11. equals를 재정의하려거든 hashCode도 재정의하라](https://github.com/yhmane/effective-java-3-e/blob/master/src/chapter3/item11/README.md)
 ### [Item #12. toString을 항상 재정의하라](https://github.com/yhmane/effective-java-3-e/blob/master/src/chapter3/item12/README.md)
+### [Item #13. clone 재정의는 주의해서 진행하라](https://github.com/yhmane/effective-java-3-e/blob/master/src/chapter3/item13/README.md)
 
